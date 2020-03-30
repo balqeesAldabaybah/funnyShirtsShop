@@ -110,7 +110,7 @@ fieldset{
     width: fit-content; margin-left: 55em;
   }
 
-#menu a:hover {
+#menu a:hover,legend {
     background-color: lightseagreen;
 }
 
