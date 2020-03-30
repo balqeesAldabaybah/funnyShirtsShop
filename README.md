@@ -1,1 +1,1 @@
-# funnyShirtsShop
+# shirt-project
